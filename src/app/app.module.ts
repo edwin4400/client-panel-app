@@ -32,11 +32,11 @@ import { AuthGuard } from './guards/auth.guard';
 import { RegisterGuard } from './guards/register.guard';
 
 export const firebaseConfig ={
-    apiKey: "AIzaSyAy8ChhUAwRNA2FAlsKkM34vZscImDTyr8",
-    authDomain: "clientpanel-52983.firebaseapp.com",
-    databaseURL: "https://clientpanel-52983.firebaseio.com",
-    storageBucket: "clientpanel-52983.appspot.com",
-    messagingSenderId: "1080347899150"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    storageBucket: "",
+    messagingSenderId: ""
 }
 
 const appRoutes: Routes = [
